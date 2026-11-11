@@ -1,14 +1,14 @@
 # CHI3242-Assignment-2
 
-Question: How is the reality of Hong Kong portrayed in Xixi's My City? How did her writing differ from her reputation?
+Question: How are positive and negative sentiments portrayed in a piece of text? How are they proportionally different from each other?
 
 Label definition: 
 
 Positive: the whimsical, comparatively lighter and more humorous sentiments
-(hope, amusement, happiness)
+(including but not limited to hope, amusement, happiness)
 
 Negative: the more hard-hitting, often grim sentiments
-(shame, barrenness, the fading of a certain cityscape)
+(including but not limited to shame, barrenness, the fading of a certain cityscape)
 
 Data Source:
 
