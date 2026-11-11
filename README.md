@@ -4,11 +4,13 @@ Question: How are positive and negative sentiments portrayed in a piece of text?
 
 Label definition: 
 
-Positive: the whimsical, comparatively lighter and more humorous sentiments
-(including but not limited to hope, amusement, happiness)
+Positive: sentiments that positively impact the text
 
-Negative: the more hard-hitting, often grim sentiments
-(including but not limited to shame, barrenness, the fading of a certain cityscape)
+(e.g. whimsical descriptions that lift the mood, or comfort and contentment that progress the story; hope, amusement, happiness, etc.)
+
+Negative: sentiments that negatively impact the text
+
+(e.g. grim depictions of hard-hitting reality, or disappointment and disillusionment that set a character back; shame, barrenness, melancholy, etc.)
 
 Data Source:
 
