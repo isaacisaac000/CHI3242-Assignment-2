@@ -33,4 +33,4 @@ Looking back at how the classifier was trained, I believe the problem stems from
 Regardless, I still find the result yielded from the classifier somewhat a reflection of Xixi’s My City. The proportions between positive and negative sentiments are not balanced in some specific novels, yet to generalise them as swinging to one side would be too crude a conclusion. To circle back to the metaphor from the beginning, only the contrast may highlight the purest sentiments, as reality is always muddled and there is always more running beneath the eye.
 
 
-- End -
+-End-
